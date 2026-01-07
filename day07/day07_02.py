@@ -23,12 +23,12 @@ while True:
         print("1~100 사이 입력하세요: ")
         continue
     if my_guess > answer_num:
-        print("업!")
-    if my_guess < answer_num:
         print("다운!")
-    if my_guess == answer_num:
+    elif my_guess < answer_num:
+        print("업!")
+    else:
         print(f"정답: {my_guess}")
-
+        break
 
 
 # 가위 바위 보
