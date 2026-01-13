@@ -66,14 +66,22 @@ class Cup:
 
         self.water -= amount
 
-amount1 = Cup(30)
-amount2 = Cup(20)
+class Player:
+    def __init__(self, _nickname, hp=100):
+        self._nickname = _nickname
+        self.hp = hp
 
-amount1.fill(10)
-amount2.fill(30)
+    def change_nickname(self, new_name):
+        self._nickname = new_name
 
-amount1.drink(30)
-amount2.drink(30)
+p1 = Player("홍길동")
+print(p1._nickname)   # 객체정보에 접근
+print(p1.hp)    # 객체정보에 접근
 
-amount1.check()
-amount2.check()
+# 직접 접근해서 변경까지 가능(위험도 존재) -> 필드 앞에 언더바(_) 붙히기(직접접근할때 경고창이 뜸)
+p1._nickname = "김길동"
+print(p1._nickname)
+
+# 동적으로 객체에 필드를 추가가능
+p1.anything = "아무거나"
+print(p1.anything)
