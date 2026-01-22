@@ -54,5 +54,3 @@ good_tags = soup.select("body > div > div:nth-child(2) > div.col-md-8 > div > sp
 for good_tag in good_tags:
     tag_name = good_tag.text
     print(tag_name[:30])
-
-
