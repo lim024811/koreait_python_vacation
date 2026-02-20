@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="da0537f1-8fa9-4b12-adf4-4aa2e865547b" name="변경" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/koreait-python-vacation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01/test/test2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03/day03_01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03/day03_02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03/day03_03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04/day04_01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04/day04_02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04/dya04_03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day05/test.txt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day06/day06_01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day06/day06_02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day07/day07_01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day07/day07_02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day07/day07_03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day08/day08_01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day08/dya08_02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day09/도서관리시스템.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day09/학생관리시스템.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day09/함수심화.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day10/data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day10/data2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day10/day10_01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day10/example.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day10/menu.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day10/함수심화2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day11/day11_01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day11/day11_02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day12/day12_01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day13/day13_01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day13/day13_02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day13_1/day13_01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day13_1/day13_02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day13_1/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day14/DAY14_03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day14/day14_01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day14/day14_02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day15/pakage_study/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day15/pakage_study/a/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day15/pakage_study/a/a.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day15/pakage_study/b/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day15/pakage_study/b/b.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day15/pakage_study/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day15/추가내용.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day15/컴프리헨션.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day17/크롤링02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day17/크롤링03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day17/크롤링04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day19/sample01.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day19/sample02.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day19/셀레니움.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day19/셀레니움01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day19/엑셀.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day19/연습01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day20/네이버웹툰.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_14/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_14/day14_02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_14/day_14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_15/package_study/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_15/package_study/a/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_15/package_study/a/a.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_15/package_study/b/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_15/package_study/b/b.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_15/package_study/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_15/컴프리헨션.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_17/크롤링03.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/python-koreait-vacation.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python-koreait-vacation.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="38m0EkJLkvelf6mpOdeYn1G0XVh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python._pydev_execfile.executor": "Run",
+    "Python.a.executor": "Run",
+    "Python.b.executor": "Run",
+    "Python.day13_01.executor": "Run",
+    "Python.day13_02.executor": "Run",
+    "Python.day14_02.executor": "Run",
+    "Python.day_14.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.test.executor": "Run",
+    "Python.컴프리헨션.executor": "Run",
+    "Python.크롤링02.executor": "Run",
+    "Python.크롤링03.executor": "Run",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "ai.playground.ignore.import.keys.banner.in.settings": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main 병합 중",
+    "junie.onboarding.icon.badge.shown": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/새 스크래치 파일": [
+      "TEXT"
+    ]
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="도서관리시스템" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="koreait-python-vacation" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day09" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day09/도서관리시스템.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="도서관리시스템" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="koreait-python-vacation" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day09" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day09/도서관리시스템.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="a" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="koreait-python-vacation" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day_15/package_study/a" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day_15/package_study/a/a.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="day13_01" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="koreait-python-vacation" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day13_1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day13_1/day13_01.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="RUN_TOOL" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="docs" factoryName="Docutils task">
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <option name="RUN_TOOL" value="" />
+      <option name="docutils_input_file" value="" />
+      <option name="docutils_output_file" value="" />
+      <option name="docutils_params" value="" />
+      <option name="docutils_task" value="" />
+      <option name="docutils_open_in_browser" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="docs" factoryName="Sphinx task">
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <option name="RUN_TOOL" value="" />
+      <option name="docutils_input_file" value="" />
+      <option name="docutils_output_file" value="" />
+      <option name="docutils_params" value="" />
+      <option name="docutils_task" value="" />
+      <option name="docutils_open_in_browser" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.a" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-f2b7a9f6281b-6e1f45a539f7-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.29346.142" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="da0537f1-8fa9-4b12-adf4-4aa2e865547b" name="변경" comment="" />
+      <created>1769389329097</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1769389329097</updated>
+      <workItem from="1769389330130" duration="427000" />
+      <workItem from="1769391161642" duration="2321000" />
+      <workItem from="1769473733271" duration="102000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/day17/크롤링02.py</url>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
